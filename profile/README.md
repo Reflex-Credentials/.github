@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Reflex Credentials:
 
 Reflex credentials is a distributed, platfrom agnostic credential management service. Institutions such as universities, exam bodies and any other agency that requires the issuance of credentials can automate the process of issuing certificates and claims to improve the efficiency
